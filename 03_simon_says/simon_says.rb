@@ -13,6 +13,6 @@ end
 def titleize
 
 end
-def shout
+def shout(str)
 
 end
