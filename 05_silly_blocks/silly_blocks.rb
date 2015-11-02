@@ -4,13 +4,13 @@ def reverser
 		final_arr.push(splitter.reverse)
 
 	end
-	final_arr.join()
+	final_arr.join(" ")
 end
-def repeater(param)
-
+def repeater(input = 1, &block)
+	input.times &block
 end
 
 
-def adder
-
+def adder(param = 1)
+	num = yield + param
 end
