@@ -4,7 +4,7 @@ end
 def repeat
 
 end
-def echo
+def echo(str)
 
 end
 def shoult
