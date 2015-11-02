@@ -5,7 +5,7 @@ def repeat
 
 end
 def echo(str)
-
+	"#{str}"
 end
 def shoult
 
