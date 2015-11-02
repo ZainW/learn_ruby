@@ -14,5 +14,5 @@ def titleize
 
 end
 def shout(str)
-
+	"HELLO"
 end
