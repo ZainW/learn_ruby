@@ -4,6 +4,6 @@ def sum(num)
 	end
 	sumnum
 end
-def add
+def add(num1, num2)
 
 end
