@@ -8,3 +8,6 @@ end
 def add(num1, num2)
 
 end
+def subtract
+
+end
