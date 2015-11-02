@@ -1,14 +1,21 @@
 def start_of_word(word, pos)
-	return word[pos-1]
+	word.split("").values_at(0...pos).join
+	# while i < pos
+	# 	word.split("")
+	# 	i++
+	# end
+	# output.join()
 end
 def repeat(str, iterations = 2)
-	iterations.to_i.times puts str
+	string = []
+	while iterations > 0
+		string.push(str)
+		iterations -= 1
+	end
+	string.join(' ')
 end
 def echo(str)
 	"#{str}"
-end
-def shoult
-
 end
 def titleize(str)
 	little_words = ["and", "or", "the", "over", "to", "the", "a", "but"]
@@ -16,5 +23,8 @@ def titleize(str)
 
 end
 def shout(str)
-	"HELLO"
+	str.upcase
+end
+def first_word(str)
+	str.split(" ").first
 end
