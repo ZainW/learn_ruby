@@ -4,3 +4,6 @@ def sum(num)
 	end
 	sum
 end
+def add
+
+end
