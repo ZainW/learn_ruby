@@ -7,3 +7,6 @@ end
 def echo
 
 end
+def shoult
+
+end
