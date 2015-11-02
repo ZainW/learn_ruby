@@ -13,3 +13,6 @@ end
 def titleize
 
 end
+def shout
+
+end
