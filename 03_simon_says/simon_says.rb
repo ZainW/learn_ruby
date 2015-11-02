@@ -1,4 +1,4 @@
-def start_of_word(str, pos)
+def start_of_word(word, pos)
 
 end
 def repeat(str)
