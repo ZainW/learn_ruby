@@ -10,3 +10,6 @@ end
 def shoult
 
 end
+def titleize
+
+end
