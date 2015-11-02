@@ -4,3 +4,6 @@ end
 def repeat
 
 end
+def echo
+
+end
