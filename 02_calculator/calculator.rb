@@ -1,4 +1,5 @@
 def sum(num)
+	sumnum = 0
 	num.each do |num|
 		sumnum += num
 	end
