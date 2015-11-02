@@ -10,7 +10,7 @@ end
 def shoult
 
 end
-def titleize
+def titleize(str)
 
 end
 def shout(str)
