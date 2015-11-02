@@ -1,7 +1,7 @@
 def start_of_word
 
 end
-def repeat
+def repeat(str)
 
 end
 def echo(str)
