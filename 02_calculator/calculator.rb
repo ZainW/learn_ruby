@@ -1,8 +1,8 @@
 def sum(num)
 	num.each do |num|
-		sum += num
+		sumnum += num
 	end
-	sum
+	sumnum
 end
 def add
 
